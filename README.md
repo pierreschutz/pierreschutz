@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pierreschutz
-- 👀 I’m interested in Machine Learning, Big data analysis, Distributed computing, Blockchain, and many more. 
-- 🌱 I’m currently pursuing a MSc in Data Science at EPFL in Switzerland. 
+- 👀 I’m interested in Machine Learning, Big data analysis, Map data visualization, and many more. 
 - 📫 You can reach me at {username}@rocketmail.com
 
 <!---
